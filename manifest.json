@@ -1,0 +1,13 @@
+{
+  "name": "coffre-lecture",
+  "displayName": "Coffre",
+  "version": "1.0.0",
+  "description": "Le coffre en lecture seule : arborescence et rendu des notes, sans passer par un conteneur externe.",
+  "author": "FAIN AVOCATS",
+  "icon": "BookOpen",
+  "type": "module",
+  "slot": "tab",
+  "entry": "dist/index.js",
+  "server": "dist/server.js",
+  "permissions": []
+}
